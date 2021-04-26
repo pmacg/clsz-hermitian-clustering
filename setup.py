@@ -1,6 +1,6 @@
 from setuptools import setup, find_packages
 
-VERSION = '0.1.1'
+VERSION = '0.1.2'
 DESCRIPTION = 'CLSZ algorithm for clustering directed graphs.'
 LONG_DESCRIPTION =\
     "The CLSZ algorithm for applying spectral clustering to hermitian adjacency matrices of directed graphs"
