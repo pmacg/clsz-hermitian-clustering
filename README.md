@@ -10,4 +10,4 @@ The primary reference for this algorithm is
 
 ## Implementation
 
-This repository conatins a straightforward python implementation of the algorithm.
+This repository conatins a straightforward python implementation of the algorithm. It is intended mainly as example code to encourage experimentation and extension.
