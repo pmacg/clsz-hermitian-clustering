@@ -1,6 +1,6 @@
 from setuptools import setup, find_packages
 
-VERSION = '0.1.2'
+VERSION = '0.2.0'
 DESCRIPTION = 'CLSZ algorithm for clustering directed graphs.'
 LONG_DESCRIPTION =\
     "The CLSZ algorithm for applying spectral clustering to hermitian adjacency matrices of directed graphs"
@@ -16,7 +16,7 @@ setup(
     packages=find_packages(),
     install_requires=["numpy", "scipy", "sklearn", "networkx"],
 
-    keywords=['python', 'clsz', 'directed graph', 'clustering', 'spectral clustering', 'hermitian'],
+    keywords=['python', 'clsz', 'directed graph', 'clustering', 'spectral clustering', 'hermitian', 'cut imbalance'],
     classifiers=[
         "Development Status :: 3 - Alpha",
         "Intended Audience :: Education",
