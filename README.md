@@ -10,7 +10,7 @@ The primary reference for this algorithm is
 
 This implementation was developed as part of the experimental results reported in the paper
 
-```Macgregor, P and Sun, H.. 2021, Local Algorithms for Finding Densely Connected Clusters. In 38th International Conference on Machine Learning (ICML'21), pages 7268--7278.```
+```Macgregor, P and Sun, H., 2021, Local Algorithms for Finding Densely Connected Clusters. In 38th International Conference on Machine Learning (ICML'21), pages 7268--7278.```
 
 If you find this implementation useful in your work, acknowledgement of both the above papers would be appreciated.
 
